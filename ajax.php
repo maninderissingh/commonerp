@@ -11,5 +11,9 @@ document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
 <div id="myDiv"><h2>Let AJAX change this text</h2></div>
 <p> This text should not be reloaded</p>
 <button onclick="doc()">Click</button>
-
+<?php echo "Hello Changes Made";?>
+<?php echo "Hello Changes Made";?>
+<?php echo "Hello Changes Made";?>
+<?php echo "Hello Changes Made";?>
+<?php echo "Hello Changes Made";?>
 
